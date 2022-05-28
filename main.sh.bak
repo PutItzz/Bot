@@ -4,7 +4,7 @@ pkg install nodejs -y
 pkg install ffmpeg -y
 pkg install imagemagick -y
 pkg install yarn
-git clone https://github.com/PutItzz/Bot.git
+git clone https://github.com/ilmanhdyt/ShiraoriBOT-Md
 cd Hyper
 yarn
 node .
